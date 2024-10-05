@@ -25,6 +25,7 @@ export default [
           ignoreRestSiblings: true,
         },
       ],
+      '@typescript-eslint/no-namespace': 'off',
     },
   },
   eslintPrettierConfig,
